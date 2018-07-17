@@ -6,6 +6,6 @@ conv = int(input('Escolha a base para conversão:'))
 if conv == 1:
     print('{} em base binária: {}'.format(num, bin(num)[2:]))
 if conv == 2:
-    print('{} em base octal {}'.format(num, oct(num) ))
+    print('{} em base octal {}'.format(num, oct(num)))
 if conv == 3:
     print('{} em base hexadecimal: {}'.format(num, hex(num)))

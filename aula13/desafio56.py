@@ -8,4 +8,3 @@ for c in range(0, 4):
 print('A média de idade é: {}'.format(sum(idades)/4))
 for s in sexos:
     if s == 'H':
-        
